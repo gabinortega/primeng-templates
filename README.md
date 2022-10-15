@@ -2,14 +2,14 @@
 
 This project was generated with:
 
-  [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6
-  Node: 14.20.1
-  Package Manager: npm 6.14.17
-  OS: win32 x64
-  angular/core ^14.2.0
-  primeflex ~2.0.0
-  primeicons ^6.0.1
-  primeng ^14.1.2
+  * [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6
+  * Node: 14.20.1
+  * Package Manager: npm 6.14.17
+  * OS: win32 x64
+  * angular/core ^14.2.0
+  * primeflex ~2.0.0
+  * primeicons ^6.0.1
+  * primeng ^14.1.2
 
 
 ## Development server
